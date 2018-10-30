@@ -1,0 +1,24 @@
+{
+  "name": "m4fe-oop-refresh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turingschool-examples/m4fe-oop-refresh.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/turingschool-examples/m4fe-oop-refresh/issues"
+  },
+  "homepage": "https://github.com/turingschool-examples/m4fe-oop-refresh#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
